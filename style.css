@@ -1,0 +1,21 @@
+.nav-items-right i{
+padding-right: 10px;
+}
+.row p{
+    font-size: 20px;
+
+
+}
+.card a{
+ text-decoration: none;
+}
+.footer-list p{
+    font-size: 10px;
+   
+}
+
+@media screen  and (max-width : 800px){
+    .container-fluid p{
+        font-size: 15px;
+    }
+}

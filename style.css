@@ -84,7 +84,7 @@ padding-right: 10px;
     right: 20px;
   }
   
-  .model .modal-footer {
+  .model .model-footer {
     background: #f7f7f9;
     color: #333;
     padding: 20px 0;
@@ -92,7 +92,7 @@ padding-right: 10px;
     text-align: center;
   }
   
-  .model .modal-footer a {
+  .model .model-footer a {
     color: steelblue;
   }
   
